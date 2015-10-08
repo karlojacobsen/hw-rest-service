@@ -10,6 +10,7 @@ tmp/
 local.properties
 .settings/
 .loadpath
+build/*
 
 # Eclipse Core
 .project
@@ -37,6 +38,3 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
-
-# Gradle
-build/*
